@@ -13,6 +13,7 @@ class Project extends Model
         'title',
         'description',
         'url',
-        'slug'
+        'slug',
+        'category_id'
     ];
 }
